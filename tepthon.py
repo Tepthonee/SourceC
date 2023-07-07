@@ -20,7 +20,7 @@ from help import *
 from waad import *
 from trans import *
 from config import *
-from t06bot import *
+from zmmbot import *
 from checktele import *
 from yt import *
 
